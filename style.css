@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main-container {
+    margin: 64px auto 268px auto;
+    padding: 96px;
+    background: #FFAEAF;
+    max-width: 1604px;
+    width: 100%;
+}
+
+#main-container-content {
+    max-width: 1412px;
+    width: 100%;
+    padding: 96px 0;
+    background: #FFF;
+}
+
+#header-container {
+    max-width: 1280px;
+    width: 100%;
+    padding: 0 32px;
+    margin: 0 auto;
+}
+
+#Our-blog {
+    text-align: center;
+    color: #ED00A6;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-md, 16px);
+    font-style: normal;
+    font-weight: 600;
+    line-height: var(--Line-height-text-md, 24px);  
+}
+
+h1 {
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 24px;
+    color: #181D27;
+    font-family: var(--Font-family-font-family-display, Inter);
+    font-size: var(--Font-size-display-lg, 48px);
+    font-style: normal;
+    font-weight: 600;
+    line-height: var(--Line-height-display-lg, 60px);
+    letter-spacing: -0.96px;    
+}
+
+#header-container-para {
+    text-align: center;
+    color: #535862;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-xl, 20px);
+    font-style: normal;
+    font-weight: 400;
+    line-height: var(--Line-height-text-xl, 30px);
+}
+
+#top-container {
+    margin: 96px auto;
+    max-width: 1280px;
+    width: 100%;
+}
+
+#middle-container {
+    max-width: 1280px;
+    width: 100%;
+    margin: 96px auto;    
+}
+
+#middle-image {
+   margin-left: 680px;
+}
+
+#bottom-container {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 100%;
+}
